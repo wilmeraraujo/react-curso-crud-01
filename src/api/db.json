@@ -1,0 +1,19 @@
+{
+    "encantada":[
+        {
+            "id": 1,
+            "name":"pantalones",
+            "description": "blancos"
+        },
+        {
+            "id": 2,
+            "name":"camisas",
+            "description": "azules"
+        },
+        {
+            "id": 3,
+            "name":"camisetas",
+            "description": "verdes"
+        }
+    ]
+}
